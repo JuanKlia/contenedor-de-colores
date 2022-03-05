@@ -1,0 +1,32 @@
+.contenedor {
+  padding: 50px;
+  margin: 10px;
+
+  border: solid 5px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-rojo {
+  background-color: red;
+}
+
+.contenedor-verde {
+  background-color: green;
+}
+.contenedor-amarillo {
+  background-color: yellow;
+}
+.rojo {
+  background-color: red;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.verde {
+  background-color: green;
+}
